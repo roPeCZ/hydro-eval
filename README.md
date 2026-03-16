@@ -1,4 +1,4 @@
-# hydro-eval
+# HydroEval
 
 Hydrological evaluation toolkit for analysing discharge simulations from hydrological models, especially **CWatM**.
 
