@@ -65,7 +65,7 @@ The following indicators are currently implemented.
 Clone the repository and install the package.
 
 ```bash
-git clone https://github.com/your-org/hydro-eval.git
+git clone https://github.com/roPeCZ/hydro-eval.git
 cd hydro-eval
 pip install -e .
 ```
